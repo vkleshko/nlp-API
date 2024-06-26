@@ -32,6 +32,6 @@ pip install -r requirements.txt
 
 ## Running the Project
 
-```
+```bash
 python -m uvicorn app.main:app --reload 
 ```
